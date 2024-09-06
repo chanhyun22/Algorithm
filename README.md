@@ -1,2 +1,3 @@
-# Backjoon-online-judge
-백준 문제 풀이 코드
+# Algorithm
+
+알고리즘 연습
